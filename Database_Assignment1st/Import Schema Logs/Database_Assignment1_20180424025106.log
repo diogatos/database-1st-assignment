@@ -1,0 +1,85 @@
+4/24/2018 7:51:06 AM	This log contains information about the import schema operation into project 'Database_Assignment1st' on computer 'PC-MAC' by user 'Zoltan'.
+4/24/2018 7:51:07 AM	Import of database schema has started.
+4/24/2018 7:51:27 AM	Gathering database credentials
+4/24/2018 7:51:27 AM	Gathering database options
+4/24/2018 7:51:27 AM	Gathering generic database scoped configuration option
+4/24/2018 7:51:27 AM	Gathering users
+4/24/2018 7:51:27 AM	Gathering roles
+4/24/2018 7:51:27 AM	Gathering application roles
+4/24/2018 7:51:27 AM	Gathering role memberships
+4/24/2018 7:51:27 AM	Gathering filegroups
+4/24/2018 7:51:27 AM	Gathering full-text catalogs
+4/24/2018 7:51:27 AM	Gathering assemblies
+4/24/2018 7:51:27 AM	Gathering certificates
+4/24/2018 7:51:27 AM	Gathering asymmetric keys
+4/24/2018 7:51:27 AM	Gathering symmetric keys
+4/24/2018 7:51:27 AM	Gathering encrypted symmetric keys
+4/24/2018 7:51:27 AM	Gathering schemas
+4/24/2018 7:51:27 AM	Gathering XML schema collections
+4/24/2018 7:51:27 AM	Gathering user-defined data types
+4/24/2018 7:51:27 AM	Gathering user-defined types
+4/24/2018 7:51:27 AM	Gathering table types
+4/24/2018 7:51:27 AM	Gathering unique keys for table types
+4/24/2018 7:51:27 AM	Gathering primary keys for table types
+4/24/2018 7:51:27 AM	Gathering indexes for table types
+4/24/2018 7:51:27 AM	Gathering check constraints for table types
+4/24/2018 7:51:27 AM	Gathering default constraints for table types
+4/24/2018 7:51:27 AM	Gathering partition functions
+4/24/2018 7:51:27 AM	Gathering partition schemes
+4/24/2018 7:51:27 AM	Gathering functions
+4/24/2018 7:51:27 AM	Gathering encrypted functions
+4/24/2018 7:51:27 AM	Gathering aggregates
+4/24/2018 7:51:27 AM	Gathering procedures
+4/24/2018 7:51:27 AM	Gathering encrypted procedures
+4/24/2018 7:51:27 AM	Gathering tables
+4/24/2018 7:51:27 AM	Gathering primary keys
+4/24/2018 7:51:27 AM	Gathering unique constraints
+4/24/2018 7:51:27 AM	Gathering foreign keys
+4/24/2018 7:51:27 AM	Gathering default constraints
+4/24/2018 7:51:27 AM	Gathering check constraints
+4/24/2018 7:51:27 AM	Gathering views
+4/24/2018 7:51:27 AM	Gathering encrypted views
+4/24/2018 7:51:27 AM	Gathering indexes
+4/24/2018 7:51:27 AM	Gathering statistics
+4/24/2018 7:51:27 AM	Gathering full-text index stoplists
+4/24/2018 7:51:27 AM	Gathering search property lists
+4/24/2018 7:51:27 AM	Gathering search properties
+4/24/2018 7:51:27 AM	Gathering full-text indexes
+4/24/2018 7:51:27 AM	Gathering column store indexes
+4/24/2018 7:51:27 AM	Gathering spatial indexes
+4/24/2018 7:51:27 AM	Gathering XML indexes
+4/24/2018 7:51:27 AM	Gathering Selective XML indexes
+4/24/2018 7:51:27 AM	Gathering encrypted triggers
+4/24/2018 7:51:27 AM	Gathering triggers
+4/24/2018 7:51:27 AM	Gathering encrypted and clr ddl triggers
+4/24/2018 7:51:27 AM	Gathering ddl triggers
+4/24/2018 7:51:27 AM	Gathering synonyms
+4/24/2018 7:51:27 AM	Gathering defaults
+4/24/2018 7:51:27 AM	Gathering data constraint uddt bindings
+4/24/2018 7:51:27 AM	Gathering rules
+4/24/2018 7:51:27 AM	Gathering data constraint uddt bindings
+4/24/2018 7:51:27 AM	Gathering message types
+4/24/2018 7:51:27 AM	Gathering queues
+4/24/2018 7:51:27 AM	Gathering contracts
+4/24/2018 7:51:28 AM	Gathering services
+4/24/2018 7:51:28 AM	Gathering event notifications
+4/24/2018 7:51:28 AM	Gathering remote service bindings
+4/24/2018 7:51:28 AM	Gathering broker priorities
+4/24/2018 7:51:28 AM	Gathering signatures
+4/24/2018 7:51:28 AM	Gathering data compression options
+4/24/2018 7:51:28 AM	Gathering sequence types
+4/24/2018 7:51:28 AM	Gathering security policies
+4/24/2018 7:51:28 AM	Gather column encryption keys
+4/24/2018 7:51:28 AM	Gathering column master keys
+4/24/2018 7:51:28 AM	Gathering external data sources
+4/24/2018 7:51:28 AM	Gathering external file formats
+4/24/2018 7:51:28 AM	Gathering external tables
+4/24/2018 7:51:28 AM	Gathering extended properties
+4/24/2018 7:51:28 AM	Gathering credentials
+4/24/2018 7:51:28 AM	Gathering logins
+4/24/2018 7:51:28 AM	Gathering server audits
+4/24/2018 7:51:31 AM	Scanning project for duplicate elements
+4/24/2018 7:51:31 AM	Finished duplicate element processing
+4/24/2018 7:51:32 AM	Finished importing database.
+4/24/2018 7:51:32 AM	A summary of the import was saved to the following location: C:\Users\Zoltan\source\repos\Database_Assignment1st\Import Schema Logs\Database_Assignment1_20180424025106.log
+4/24/2018 7:51:32 AM	Click Finish to continue...
